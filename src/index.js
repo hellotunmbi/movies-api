@@ -29,7 +29,7 @@ mongoose.Promise = global.Promise;
 mongoose.connection.on('error', console.error.bind(console, 'MongoDB Connection Error...'));
 
 
-let port = 1234;
+let port = 3000;
 
 app.listen(process.env.PORT || port, () => {
 	console.log(`Server now up and running on port ${port}`);
