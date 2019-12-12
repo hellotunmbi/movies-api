@@ -1,9 +1,9 @@
 
 #Simple Movies API with Test using Jest
 
-### Repo Without Test, clone Master branch
+Repo Without Test, clone Master branch
 
-### Completed project with Test included, clone Complete branch
+Completed project with Test included, clone Complete branch
 
 
 ## Setup
