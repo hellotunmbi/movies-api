@@ -5,6 +5,9 @@ Repo Without Test, clone *Master* branch
 
 Completed project with Test included, clone *Complete* branch
 
+'Master' branch is Starter
+'Completed' branch is Completed project
+
 
 ## Setup
 - Clone repository
